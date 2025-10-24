@@ -1,6 +1,6 @@
-Repository URL: [your-github-repo-url]
-Student Name: [Your Full Name]
-Student ID: [Your Student ID]
+Repository URL: https://github.com/sebasuarezt7/ReduxTodoApp
+Student Name: Sebastian Rafael Suarez Tamayo
+Student ID: n01706712
 Lab: CPAN 213 - Lab 6
 Date: October 7, 2025
 Redux Features Implemented:
